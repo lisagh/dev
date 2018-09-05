@@ -27,3 +27,7 @@ body {
 .card-title a {
 	color: #000;
 }
+.card img {
+	margin: auto;
+	display: block;
+}
