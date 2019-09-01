@@ -1,8 +1,9 @@
-html, body {
-  height:100%;
+html,
+body {
+  height: 100%;
 }
 body {
-  align-items:center;
+  align-items: center;
 }
 #footer {
   background: #fff;
@@ -12,25 +13,28 @@ body {
   font-size: 14px;
 }
 .card:hover {
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 .icon {
-	top: 15%;
-    position: relative;
+  top: 15%;
+  position: relative;
 }
-.card ul{
-	list-style: none;
+.card ul {
+  list-style: none;
 }
-.card li{
-	list-style: none;
+.card li {
+  list-style: none;
 }
 .card-title a {
-	color: #000;
+  color: #000;
 }
 .card img {
-	margin: auto;
-	display: block;
+  margin: auto;
+  display: block;
 }
 .card a {
-	padding: 0;
+  padding: 0;
+}
+#about a:first-of-type {
+  padding-left: 0;
 }
